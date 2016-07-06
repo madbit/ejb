@@ -1,0 +1,5 @@
+org\madbit\ejb\component\StatelessTestRemote.class
+org\madbit\ejb\component\StatelessTestLocal.class
+org\madbit\ejb\component\StatefulTestLocal.class
+org\madbit\ejb\component\StatefulTestRemote.class
+org\madbit\ejb\web\TestServlet.class
